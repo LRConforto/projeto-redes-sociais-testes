@@ -12,7 +12,9 @@ html, body {
 }
 
 body { 
-    background-image:url(../imagens/fundo-madeira.jpg);
+/*     background-image:url(../imagens/fundo-madeira.jpg);
+ */ 
+    background-color: beige;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom, top;    
